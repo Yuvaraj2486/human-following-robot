@@ -50,8 +50,5 @@ The robot uses sensors like cameras or ultrasonic sensors to detect and track hu
 - Integrate advanced obstacle avoidance.
 - Improve battery life and sensor range.
 
-## License 📜
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact 📬
 For questions or contributions, open an issue or submit a pull request on the GitHub repository 🙌.
